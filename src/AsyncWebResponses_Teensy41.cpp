@@ -35,7 +35,6 @@
 #endif
 
 #include "AsyncWebServer_Teensy41_Debug.h"
-#include "cbuf.h"
 #include "AsyncWebServer_Teensy41.hpp"
 #include "AsyncWebResponseImpl_Teensy41.h"
 #include "cbuf.hpp"

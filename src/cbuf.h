@@ -1,8 +1,11 @@
 #ifndef cbuf_h
 #define cbuf_h
 
+#include <cstddef>
+#include <cstring>
+
 class cbuf {
- public:
+public:
   cbuf(size_t size) : _size(size), _buf(new char[size]), _bufend(_buf + size), _begin(_buf), _end(_begin) {
   }
   ~cbuf() { delete[] _buf; }
