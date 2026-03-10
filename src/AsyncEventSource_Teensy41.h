@@ -37,7 +37,7 @@
 
 #include <Arduino.h>
 
-#include <Teensy41_AsyncTCP.hpp>
+#include <Teensy41_AsyncTCP.h>
 
 #include <AsyncWebServer_Teensy41.hpp>
 #include "AsyncWebSynchronization_Teensy41.h"

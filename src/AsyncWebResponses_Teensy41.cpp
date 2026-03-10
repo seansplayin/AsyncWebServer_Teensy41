@@ -38,6 +38,7 @@
 #include "AsyncWebServer_Teensy41.hpp"
 #include "AsyncWebResponseImpl_Teensy41.h"
 #include "cbuf.hpp"
+#include "cbuf_Impl.h"
 
 /////////////////////////////////////////////////
 

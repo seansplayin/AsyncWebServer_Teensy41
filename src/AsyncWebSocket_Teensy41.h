@@ -38,7 +38,7 @@
 #include <Arduino.h>
 
 // Teensy41
-#include <Teensy41_AsyncTCP.hpp>
+#include <Teensy41_AsyncTCP.h>
 
 /////////////////////////////////////////////////
 

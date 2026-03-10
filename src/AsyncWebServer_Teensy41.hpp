@@ -60,7 +60,7 @@
 #include "Arduino.h"
 #include <functional>
 
-#include <Teensy41_AsyncTCP.hpp>
+#include <Teensy41_AsyncTCP.h>
 
 #include "AsyncWebServer_Teensy41_Debug.h"
 #include "StringArray_Teensy41.h"
